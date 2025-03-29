@@ -1,5 +1,4 @@
 package com.laboratorio;
-
 import javax.swing.JOptionPane;
 
 public class vehiculo {
